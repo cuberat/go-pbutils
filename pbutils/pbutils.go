@@ -40,6 +40,10 @@ import (
     "reflect"
 )
 
+const (
+    Version = "0.01"
+)
+
 // Implements the KeyedRecordEncoder and KeyedRecordDecoder interfaces specified
 // by `github.com/cuberat/go-libutils/libutils`.
 //
